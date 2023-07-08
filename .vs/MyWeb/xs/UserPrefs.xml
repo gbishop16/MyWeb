@@ -1,4 +1,34 @@
 ﻿<Properties StartupConfiguration="{1D58364C-243E-4D50-B6E5-8F4BB6FCCEED}|Default">
-  <MonoDevelop.Ide.ItemProperties.MyWeb FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MyWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyWeb/ClientApp/public/index.html">
+    <Files>
+      <File FileName="MyWeb/ClientApp/public/index.html" Line="1" Column="1" />
+      <File FileName="MyWeb/ClientApp/src/components/NavMenu.css" Line="1" Column="1" />
+      <File FileName="MyWeb/ClientApp/src/components/NavMenu.js" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyWeb">
+            <Node name="MyWeb" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="public" expanded="True">
+                  <Node name="index.html" selected="True" />
+                </Node>
+                <Node name="src" expanded="True">
+                  <Node name="components" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
